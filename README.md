@@ -1,2 +1,2 @@
-# an_iptables_firewall
-This is a simple implementation of an iptables firewall for a network.
+# Iptables Firewall
+This is a simple firewall created according to the task specified in intern-projects repository from @fatihusta
